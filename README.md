@@ -2,7 +2,7 @@
 
 <h2> Glenn A. </h2>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> &nbsp;Tech Stack</h3>
 
 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
